@@ -1,4 +1,4 @@
-## Intro:
+## Intro
 A Fullstack MERN along with Redux, Redux Toolkit, Authentication with JWT
 
 ## Usage
@@ -23,6 +23,5 @@ npm install
 ### Run app in development (frontend & backend)
 
 ```bash
-npm run dev (make sure you're not in frontend directory
-)
+npm run dev (make sure you're not in frontend directory)
 ```
